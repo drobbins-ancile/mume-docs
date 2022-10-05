@@ -81,10 +81,10 @@ He is questioned thoroughly but has no useful information to give him, which onl
 Beaten almost to death, he's thrown into the kennels as food for wargs. As a final gesture of defiance, Gwathion hides most of his
 equipment among the straw and filth on the kennel's floor.
 
-Room: Warg Kennels
-ID: 105773
-Location: West Anduin (NE of Lorien)
-Description:
+Room: Warg Kennels  
+ID: 105773  
+Location: West Anduin (NE of Lorien)  
+Description:  
 Many crudely built iron cages with tied gates line the far wall of this tiny,
 filthy cavern. Tufts of fur and piles of droppings litter the floor, giving
 very little clean walking space and adding to the musty odour of animals that
@@ -105,10 +105,10 @@ stone slab over the opening and sits down to feast.
 Feast over, the troll sits with its back towards the slab, dozing off and satisfied. Scattered about the cave lies the remains of
 Gwathion and his equipment; the troll has no interest in the material possessions of an elf.
 
-Room: Collapse Tunnel
-ID: 101934
-Location Between Vale and DG
-Description:
+Room: Collapse Tunnel  
+ID: 101934  
+Location Between Vale and DG  
+Description:  
 The most prominent feature of this narrow alcove is the stench of rotting meat
 that permeates everything in here. Spoils of war and strife are littered about
 on the cave floor, mostly bones and skulls that have been crushed by merciless
@@ -126,10 +126,10 @@ The lizard drags the weakly struggling elf to his doom in a muddy hole on this n
 As the elf disappears from view you can't help but wonder, is his body and belongings still down in that hole, waiting to be
 discovered?
 
-Room: Toppled Passageway
-ID: 21938
-Location: east anduin just N of ferry
-Description:
+Room: Toppled Passageway  
+ID: 21938  
+Location: east anduin just N of ferry  
+Description:  
 This passageway is narrow but tall, assembled from grey stone blocks which at
 one time were fit together masterfully, yet which have now crumbled within the
 unyielding hands of time. The tunnel bends away to the east, but in the west it
@@ -153,10 +153,10 @@ Several smaller trolls join the feast, gnawing on bones to get at the marrow.
 Gwathion's equipment lies forgotten, buried under ripped cloth, bones, blood,
 and filth.
 
-Room: Bone-littered Prison Cell
-ID: 108617
-Location: Emyn (Rahku area)
-Description:
+Room: Bone-littered Prison Cell  
+ID: 108617  
+Location: Emyn (Rahku area)  
+Description:  
 The prison cell is a damp and dark room. It has been dug into the dark rock,
 offering no exit out save to west where is a sturdy-looking stone door. There
 are rusty shackles on the walls, some of them still containing remains of
@@ -173,10 +173,10 @@ tossed to the wargs, whom devour it fully.
 Gwathion's equipment, after an initial thorough search, lies seemingly
 forgotten under some pieces of rotten canvas.
 
-Room: Rough Camp by the Anduin
-ID: 101861
-Location: east anduin
-Description:
+Room: Rough Camp by the Anduin  
+ID: 101861  
+Location: east anduin  
+Description:  
 Here, amidst the normally peaceful, riverside forest, an untidy, semi-permanent
 camp has been set up. Dirty, rotting pieces of canvas has been tied up between
 some tree trunks and boulders, providing an effective but smelly wind shelter.
@@ -201,10 +201,10 @@ The frothing bear drags his limp body towards a cavern to the west.
 The bear and its prey disappear into the cave. If anything of Gwathion 
 or his equipment still remain, it is surely found in the bear's den.
 
-Room: Stinking Lair
-ID: 105886
-Location: east middle anduin
-Description:
+Room: Stinking Lair  
+ID: 105886  
+Location: east middle anduin  
+Description:  
 The underground tunnel ends in a small, stinking cave. Among the dark rocks,
 numerous bones and some half-eaten corpses lies an open area which is clearly a
 residency of some large beast. A small, worn-looking tunnel leads to the north
@@ -224,10 +224,10 @@ on a pile of corpses of all manner of creatures. You see some of his belongings
 scatter among the corpses as well. The spiders seem to care little for material
 things.
 
-Room: Giant, Webbed Cavern
-ID: 107351
-Location: near Fyrchra
-Description:
+Room: Giant, Webbed Cavern  
+ID: 107351  
+Location: near Fyrchra  
+Description:  
 Below the cavern dome enormous spider webs stretch out, covering the walls
 and the slightly sloping floor. The webbed ground is very sticky, making it
 difficult to walk fast. Webs are spun between the ceiling and floor, creating
@@ -244,10 +244,10 @@ pilfered corpse is dragged out of the cave and dumped in some nearby bushes.
 The captain examines a brown leather scroll and curses loudly. He tosses the elf's belongings against
 the wall where it ends up half-buried beneath the straw covering the cave's floor.
 
-Room: A Storage Cave
-ID: 101824
-Location: between vale ford and woodendoor
-Description:
+Room: A Storage Cave  
+ID: 101824  
+Location: between vale ford and woodendoor  
+Description:  
 This musty cave seems large and dry enough to keep supplies or even a small
 band of travellers protected from the elements. The cave was clearly not formed
 naturally; a layer of straws lies spread on the floor, and some of the roots
