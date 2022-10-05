@@ -1,25 +1,25 @@
 exits:
 
-strongbushes
-spikytangle
-densetangle
-secretfoliages
-secretbush
-thornfoliage
-rancidvines
-densevines
-solidcoppice
-stickyfoliage
-clingingvines
-massiveshrubberies
-entangledthicket
-rancidleaves
-solidbush
-stickytangle
-entangledcopse
-massivebush
-thornundergrowth
-massivetreelimbs
+strongbushes  
+spikytangle  
+densetangle  
+secretfoliages  
+secretbush  
+thornfoliage  
+rancidvines  
+densevines  
+solidcoppice  
+stickyfoliage  
+clingingvines  
+massiveshrubberies  
+entangledthicket  
+rancidleaves  
+solidbush  
+stickytangle  
+entangledcopse  
+massivebush  
+thornundergrowth  
+massivetreelimbs  
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -31,10 +31,10 @@ The bear ravages the defenseless Gwathion. It sinks its massive jaws into his ne
 In a den, two famished bear cubs tear and rip at the corpse of Gwathion, eager to get at the meat. Those items of his that are not torn
 and ripped to shreds end up scattered about the den; they are of no interest to the bears.
 
-Room: A Bear's Den
-ID: 108226
-Location: Southwestern Mirkwood
-Description:
+Room: A Bear's Den  
+ID: 108226  
+Location: Southwestern Mirkwood  
+Description:  
 The dark earth tunnel opens up into a natural, underground stone cave. Bones
 bearing teeth marks, and even whole skeletons, lie higgledy-piggedly in a huge
 pile just below a narrow hole in one wall of the cave. The hole gives onto
@@ -59,10 +59,10 @@ victim.
 The shackles are removed and the corpse dragged away. Gwathion's belongings lie scattered in a dark corner of the cave, for the time
 forgotten.
 
-Room: The Orkish Commander's Hideout
-ID: 101296
-Location: Southeastern Lorien
-Description:
+Room: The Orkish Commander's Hideout  
+ID: 101296  
+Location: Southeastern Lorien  
+Description:  
 The smell of rotting meat and blood becomes more intensive further down in the
 hole. A cave with numerous holes and cavities in the walls has been dug here
 by removing the scarce supply of soil and dirt, uncovering a natural cave with
