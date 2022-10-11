@@ -20,6 +20,7 @@ entangledcopse
 massivebush  
 thornundergrowth  
 massivetreelimbs  
+flimsyboughs  
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
