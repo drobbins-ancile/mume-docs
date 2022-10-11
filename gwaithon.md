@@ -255,3 +255,29 @@ naturally; a layer of straws lies spread on the floor, and some of the roots
 sticking out of the earth seem to have been chopped off with a shovel or some
 other tool. A single gush of water trickles down the surface of a rock in the
 back wall, where it harmlessly soaks into the ground.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+The elven ranger settles in for the night and falls asleep.
+The sky is cast in shades of grey and dawn is still some time away.
+A large winged shape circles in the sky, high above the sleeping form of Gwathion.
+Suddenly the winged beast dives, increasing in size at an alarming rate!
+The winged fell beast plunges its talons deep into the ranger's body, and its horrible jaws close around his neck.
+Gwathion thrashes in the grip of the beast, but his gruesome fate can not be avoided.
+Bright red blood drains onto the ground and the only sounds are the ripping and tearing of flesh and clothes as the beast feasts upon the dying
+elf.
+Hard as it is to tear your eyes from the horrible scene, you notice that some of Gwathion's belongings lie scattered in the ruin.
+You see where some things end up, half-hidden by rubble and shrubs, as if daring you to come and search for them.
+The beast takes to the air again, struggling slightly to get off the ground with a full belly. It lets out a piercing cry as its wings carry it
+eastward towards Mirkwood.  
+
+Room: Ruined Farmhouse  
+ID: 105345
+Location: central anduin  
+Description:  
+Lying in the middle of the field is the remains of an ancient farmhouse. Dust
+covers everything in this small farm house, which appears to have been
+abandoned long ago. A broken chair sits on its side next to an old table. There
+is debris lying about within the ruined frames of the farmhouse but nothing of
+value. The farmhouse seems to have given shelter to one or two occupants who
+once tilled the fields to the north, but no one has lived here for many years.
